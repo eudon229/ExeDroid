@@ -43,4 +43,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Authors
 
-- **Your Name** – *Lead Developer* – [Your GitHub](https://github.com/eudon229/exedroid/)
+- [**eudon229**](https://github.com/eudon229/exedroid/)
