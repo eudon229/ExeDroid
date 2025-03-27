@@ -1,1 +1,3 @@
-- Create a PE Loader
+- Créer un PE Loader
+il doit être capable de vérifier les entêtes des fichiers PE (.exe et .dll) et charger les sections en mémoire 
+Résoudre les imports 
