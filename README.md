@@ -1,8 +1,7 @@
 # ExeDroid
 ExeDroid executes Windows .exe files on Android devices independently of Windows. A lightweight yet powerful compatibility layer ensures smooth performance and broad application support.
-# ExeDroid
 
-**ExeDroid** is an innovative tool that allows the execution of Windows executable files (.exe) directly on Android devices, without relying on a Windows environment. With a powerful execution engine, ExeDroid makes it possible to run Windows applications on Android, providing high compatibility and fast performance for mobile platforms.
+This an innovative tool that allows the execution of Windows executable files (.exe) directly on Android devices, without relying on a Windows environment. With a powerful execution engine, ExeDroid makes it possible to run Windows applications on Android, providing high compatibility and fast performance for mobile platforms.
 
 ## Features
 
